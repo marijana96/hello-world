@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> CI+CD Pipeline 2022 </h1>
+  <h1> CI+CD Pipeline Finished! :D </h1>
 
   
 </form
