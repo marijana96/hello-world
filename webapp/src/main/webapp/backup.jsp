@@ -1,4 +1,4 @@
-<!-- <form action="action_page.php">
+<form action="action_page.php">
   <div class="container">
     <h1>Login Page </h1>
     <p>Please fill in this form to create an account.</p>
@@ -35,6 +35,4 @@
 
   
 </form
-> -->
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-23fb821c-5f69-4ce9-8c1d-b1c172c18991"></div>
+>
